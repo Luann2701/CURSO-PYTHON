@@ -1,0 +1,1 @@
+#JOKENPO - UTILIZAR RANDOM e 3 opc para jogar junto com computador
